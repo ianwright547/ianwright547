@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Ian 👋
 
-<!--
-**ianwright547/ianwright547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ Indiana University | Co-Founder @ Pillar
 
-Here are some ideas to get you started:
+Passionate about building tools that help businesses run better. Learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+- 🏗️ **Pillar** Software consulting for small businesses (websites, automations, CRM integrations)
+- 🎓 Studying Computer Science at Indiana University
+
+Check out my pinned repos 👇
+
+---
+
+### Fun facts
+- Dual citizen US and Australia
+- ⛷️ I love to ski
+- 🥋 BJJ Hobbyist
+
+
+### Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianwright)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:imwright.iu@edu)
+
